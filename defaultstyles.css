@@ -145,7 +145,7 @@ h2 {
 }
 
 #contentbar {
-	width:210px;
+    /*width:300px;*/
 	float:left;
 	line-height:140%;
 	background-color:#EEE;
